@@ -13,6 +13,6 @@ output
 
 ![image](https://github.com/Prshtt/webdev3/assets/127748666/8055aa64-5b34-4100-aabb-6b99780bd2cd)
 
-![Uploading image.png…]()
+![image](https://github.com/Prshtt/webdev3/assets/127748666/88731763-fe81-436c-b7e2-0086351480a4)
 
 
